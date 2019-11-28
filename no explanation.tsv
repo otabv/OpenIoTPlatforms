@@ -1,0 +1,61 @@
+	Studies with no explanation related to open IoT platforms 			
+	Authors	Title	Year	Publisher
+1	M Taştan, H Gökozan	Real-Time Monitoring of Indoor Air Quality with Internet of Things-Based E-Nose	2019	mdpi.com
+2	S Sonune, D Kalbande, A Yeole…	Issues in IoT healthcare platforms: A critical study and review	2017	ieeexplore.ieee.org
+3	O Alrawi, C Lever, M Antonakakis…	Sok: Security evaluation of home-based iot deployments	2019	ieee
+4	K Kwon, D Kim, D Kim	Oliot-Discovery Service: Dealing with Performance and Security Issues from Intra-DS Aspect for IoT	2016	ieeexplore.ieee.org
+5	S Sicari, C Cappiello, F De Pellegrini…	A security-and quality-aware system architecture for Internet of Things	2016	Springer
+6	SS Saha, S Rahman, MJ Rasna, TB Zahid…	Feature Extraction, Performance Analysis and System Design using the DU Mobility Dataset	2018	ieeexplore.ieee.org
+7	F Cicirelli, A Guerrieri, G Spezzano, A Vinci	An edge-based platform for dynamic smart city applications	2017	Elsevier
+8	S Duttagupta, M Kumar, R Ranjan…	Performance prediction of iot application: An experimental analysis	2016	dl.acm.org
+9	S Hossain, A Abdelgawad	Smart Refrigerator Based on Internet of Things (IoT): An Approach to Efficient Food Management	2018	dl.acm.org
+10	O Chieochan, A Saokaew…	Internet of things (IOT) for smart solar energy: A case study of the smart farm at Maejo University	2017	ieeexplore.ieee.org
+11	A Karpenko, T Kinnunen, K Främling…	Open IoT Ecosystem for Smart EV Charging	2018	ieeexplore.ieee.org
+12	SR Oh, YG Kim	Development of IoT security component for interoperability	2017	ieeexplore.ieee.org
+13	PP Ray	Internet of things cloud enabled MISSENARD index measurement for indoor occupants	2016	Elsevier
+14	T Lee, S Jeon, D Kang, LW Park…	Design and implementation of intelligent HVAC system based on IoT and Bigdata platform	2017	ieeexplore.ieee.org
+15	A Kovtunenko, M Timirov, A Bilyalov	Multi-agent approach to computational resource allocation in edge computing	2019	Springer
+16	JM Fernandez, I Vidal, F Valera	Enabling the Orchestration of IoT Slices through Edge and Cloud Microservice Platforms	2019	mdpi.com
+17	X Wang, AK Sangaiah, M Sheng, SH Ahmed	Introduction to the Special Section on Applying Machine Learning Systems for IoT Services in Industrial Informatics	2019	Elsevier
+18	MA Sayeed, SP Mohanty, E Kougianos…	eSeiz: An Edge-Device for Accurate Seizure Detection for Smart Healthcare	2019	ieeexplore.ieee.org
+19	CC Lai, ZF Akbar, CM Liu, VD Ta…	Distributed Continuous Range-Skyline Query Monitoring over the Internet of Mobile Things	2019	ieeexplore.ieee.org
+20	S Schefer-Wenzl, I Miladinovic, A Ensor	A Survey of Mobile Learning Approaches for Teaching Internet of Things	2018	Springer
+21	A Belfkih, C Duvallet, B Sadeg	A survey on wireless sensor network databases	2019	Springer
+22	MM Rathore, A Ahmad, A Paul	The Internet of Things based medical emergency management using Hadoop ecosystem	2015	ieeexplore.ieee.org
+23	S Mishra, S Jain, C Rai, N Gandhi	Security Challenges in Semantic Web of Things	2018	Springer
+24	B Sharma, D Koundal	Cattle health monitoring system using wireless sensor network: a survey from innovation perspective	2018	IET
+25	A Khattab, A Abdelgawad…	Design and implementation of a cloud-based IoT scheme for precision agriculture	2016	ieeexplore.ieee.org
+26	S Neogi, Y Galphat, P Narkar, H Punjabi…	IoT Based Air Quality Monitoring Systems-A Survey	2018	Springer
+27	M Sharma, G Singh	Need and Design of Smart and Secure Energy-Efficient IoT-Based Healthcare Framework	2019	Springer
+28	K Narang, J Bapat	Hardware Agnostic Universal Shareable IoT Platform	2018	ieeexplore.ieee.org
+29	M Ptiček, V Čačković, M Pavelić…	Architecture and functionality in M2M standards	2015	ieeexplore.ieee.org
+30	A Benayache, A Bilami, S Barkat, P Lorenz…	MsM: A microservice middleware for smart WSN-based IoT application	2019	Elsevier
+31	M Schleipen, SS Gilani, T Bischoff, J Pfrommer	Opc ua & industrie 4.0-enabling technology with high diversity and variability	2016	Elsevier
+32	W Lei, L Xu	Research and implementation of access control model of internet of things	2016	ieeexplore.ieee.org
+33	C Tong, X Yin, J Li, T Zhu, R Lv, L Sun…	An innovative deep architecture for aircraft hard landing prediction based on time-series sensor data	2018	Elsevier
+34	Y Gong, C Zhang, L Zhu	Analysis on the Development of IoT Platform in Broadcasting and TV Industry	2019	ieeexplore.ieee.org
+35	YC Pranaya, MN Himarish, MN Baig…	Cognitive architecture based smart grids for smart cities	2017	ieeexplore.ieee.org
+36	JY Yu, YG Kim	Analysis of IoT Platform Security: A Survey	2019	ieeexplore.ieee.org
+37	Y Bandung	Design of Secure IoT Platform for Smart Home System	2018	ieeexplore.ieee.org
+38	SD Nagowah, HB Sta…	An Overview of Semantic Interoperability Ontologies and Frameworks for IoT	2018	ieeexplore.ieee.org
+39	YH Lin	Novel smart home system architecture facilitated with distributed and embedded flexible edge analytics in demand‐side management	2019	Wiley Online Library
+40	L Kim-Hung, SK Datta, C Bonnet…	An industrial IoT framework to simplify connection process using system-generated connector	2017	ieeexplore.ieee.org
+41	Y Yamato, T Demizu, H Noguchi…	Automatic GPU offloading technology for open IoT environment	2018	ieeexplore.ieee.org
+42	S Sicari, A Rizzardi, D Miorandi, C Cappiello…	Security policy enforcement for networked smart objects	2016	Elsevier
+43	SR Oh, YG Kim	Security requirements analysis for the IoT	2017	ieeexplore.ieee.org
+44	AC Onal, OB Sezer, M Ozbayoglu…	MIS-IoT: Modular Intelligent Server Based Internet of Things Framework with Big Data and Machine Learning	2018	ieeexplore.ieee.org
+45	H Dibowski, O Holub, J Rojíček	Ontology-based automatic setup of virtual sensors in building automation systems	2016	ieeexplore.ieee.org
+46	SR Enigella, H Shahnasser	Real Time Air Quality Monitoring	2018	ieeexplore.ieee.org
+47	MY Thu, W Htun, YL Aung, PEE Shwe…	Smart Air Quality Monitoring System with LoRaWAN	2018	ieeexplore.ieee.org
+48	MA Akbar, MM Rashid…	Technology Based Learning System in Internet of Things (IoT) Education	2018	ieeexplore.ieee.org
+49	N Sahni, J Bose, K Das	Web APIs for Internet of Things	2018	ieeexplore.ieee.org
+50	G Vossen, F Schönthaler, S Dillon	The Road Ahead: Living in a Digital World	2017	Springer
+51	I Hwang, YG Kim	Analysis of Security Standardization for the Internet of Things	2017	ieeexplore.ieee.org
+52	H Cha, S Lee, HJ Kim	Development and Deployment of ICT DIY Standards in Support of Internet of Things: A Qualitative Approach	2016	ieeexplore.ieee.org
+53	MG Asinelli, MS Serra, JM Marimòn, JS Espaulella	The smARTS_Museum_V1: An open hardware device for remote monitoring of Cultural Heritage indoor environments	2018	Elsevier
+54	WD Yoon, K Kwon, D Kim	Gs1beacon: Gs1 standard based integrated beacon service platform	2016	ieeexplore.ieee.org
+55	M Weber, D Lučić, I Lovrek	Internet of Things context of the smart city	2017	ieeexplore.ieee.org
+56	E Ahmed, I Yaqoob, IAT Hashem, I Khan, AIA Ahmed…	The role of big data analytics in Internet of Things	2017	Elsevier
+57	J Jeffords, P Kane, Y Moghaddam…	Exponentially disruptive innovation driven by service science and the Internet of Things as a Grand Challenge enabler in Education	2014	ieeexplore.ieee.org
+58	A Berouine, F Lachhab, YN Malek…	A smart metering platform using big data and IoT technologies	2017	ieeexplore.ieee.org
+59	P Sundaravadivel, K Kesavan…	Smart-Log: A deep-learning based automated nutrition monitoring system in the IoT	2018	ieeexplore.ieee.org
